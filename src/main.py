@@ -1,7 +1,7 @@
 import httpx
 
 
-response = httpx.get('https://www.example.org/')
+response = httpx.get("https://www.example.org/")
 
 # Print httpx class
 print(response)
